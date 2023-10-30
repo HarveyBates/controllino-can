@@ -48,3 +48,4 @@ The bill-of-materials can be found [here](https://github.com/HarveyBates/control
 Compress the [gerber folder](https://github.com/HarveyBates/controllino-can/tree/main/electronics/gerber) and upload to your PCB manufactuer of choice (e.g. [jlcpcb]([https://jlcpcb.com/](https://cart.jlcpcb.com/quote/)https://cart.jlcpcb.com/quote/) or [PCBway](https://www.pcbway.com/) etc.). As the components are SMD (0805 smallest size) get a stencil (top-side of PCB only) to make assembly easier. **PCB plus stencil is roughly $15 AUD ($10 USD).**
 
 ## Licence
+Controllino-CAN is licenced under the GNU General Public Licence v3.0 as outlined in the [LICENCE](https://github.com/HarveyBates/controllino-can/blob/main/LICENSE).
