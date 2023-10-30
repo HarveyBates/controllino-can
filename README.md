@@ -1,5 +1,5 @@
 # Controllino-CAN
-Small PCB that fits onto the header of a Controllino-MEGA allowing it to interface with CAN devices through a SPI interface. Does not take up any output/input pins!
+Small PCB that fits onto the header of a [Controllino-MEGA](https://www.controllino.com/product/controllino-mega/) allowing it to interface with CAN devices through a SPI interface. Does not take up any output/input pins!
 
 <p float="left" align="center">
   <img src="media/pcb_3d_render.png" width="300" /> 
