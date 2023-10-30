@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "crystals")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/crystals.kicad_sym")(options "")(descr ""))
+  (lib (name "tactile_switches")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/tactile_switches.kicad_sym")(options "")(descr ""))
+  (lib (name "voltage_regulator")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/voltage_regulator.kicad_sym")(options "")(descr ""))
+  (lib (name "wire_to_board")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/wire_to_board.kicad_sym")(options "")(descr ""))
+  (lib (name "inductors")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/inductors.kicad_sym")(options "")(descr ""))
+)

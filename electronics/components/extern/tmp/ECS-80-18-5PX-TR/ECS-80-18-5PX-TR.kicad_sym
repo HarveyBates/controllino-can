@@ -1,0 +1,65 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "ECS-80-18-5PX-TR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "Y" (id 0) (at -5.08689 3.81517 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "ECS-80-18-5PX-TR" (id 1) (at -5.09031 -5.09031 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "XTAL_ECS-80-18-5PX-TR" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "ECS INC." (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "2017" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer recommendations" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "ECS-80-18-5PX-TR_0_0"
+      (polyline
+        (pts (xy 1.016 0.0) (xy 2.54 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 0.0) (xy -1.016 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -0.381 1.524) (xy -0.381 -1.524)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.381 -1.524) (xy 0.381 -1.524)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.381 -1.524) (xy 0.381 1.524)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.381 1.524) (xy -0.381 1.524)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.016 1.778) (xy 1.016 -1.778)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.016 1.778) (xy -1.016 -1.778)) (stroke (width 0.254))
+      )
+      (pin passive line (at 5.08 0.0 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -5.08 0.0 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

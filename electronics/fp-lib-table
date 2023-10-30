@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "crystals")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/crystals.pretty")(options "")(descr ""))
+  (lib (name "tactile_switches")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/tactile_switches.pretty")(options "")(descr ""))
+  (lib (name "voltage_regulator")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/voltage_regulator.pretty")(options "")(descr ""))
+  (lib (name "wire_to_board")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/wire_to_board.pretty")(options "")(descr ""))
+  (lib (name "inductors")(type "KiCad")(uri "${KIPRJMOD}/components/extern/footprints/inductors.pretty")(options "")(descr ""))
+)
